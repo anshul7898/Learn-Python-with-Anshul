@@ -1,5 +1,5 @@
 import speech_recognition as sr
-AUDIO_FILE=('A.wav')
+AUDIO_FILE=('A.wav') # the name of the audio file. The extension of the file must always be WAV 
 
 r = sr.Recognizer()
 
